@@ -3,5 +3,5 @@ I am Vamsi Vadlamudi, a junior front-end developer who embraces daily challenges
 
 ## 📚 Skills
 * ⚛ React
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS, JS 
 * 🖌 Figma
