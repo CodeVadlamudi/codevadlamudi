@@ -3,5 +3,6 @@ I am Vamsi Vadlamudi, a front-end developer who embraces daily challenges as opp
 
 ## 📚 Skills
 * 💻 HTML, CSS, SCSS, Bootstrap, Tailwind CSS, TS
-* ⚛ React, Next JS
+* ⚛ React & Next JS
 * 🖌 Figma
+* Sales & Services at Sign Skill Bridge
