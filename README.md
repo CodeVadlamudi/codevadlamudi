@@ -7,4 +7,4 @@ I am Vamsi Vadlamudi, a front-end developer who embraces daily challenges as opp
 * 🖌 Figma
 
 ## 👨‍💻 Portfolio
-Please visit - [https://vamsi-portfolio-ten.vercel.app](https://vamsi-v-portfolio.vercel.app/)
+Please visit - https://vamsi-v-portfolio.vercel.app/
