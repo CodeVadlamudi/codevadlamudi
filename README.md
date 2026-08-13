@@ -14,7 +14,7 @@ I’m also the Founder of Aptitechie, an EdTech platform focused on creating acc
 * Product Development — Explore and build digital products from concept and design through development and deployment.
 * Continuous Learning — Currently expanding my skills in CMS development and mobile application development.
 
-# 🚀 Aptitechie
+## 🚀 Aptitechie
 Launched Aptitechie, an EdTech platform creating accessible learning experiences for deaf and hard-of-hearing learners.
 🌐 Visit the website: https://aptitechie.in/
 
